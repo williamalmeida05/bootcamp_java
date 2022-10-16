@@ -1,0 +1,7 @@
+git status
+
+git add .
+
+git commit -am "inicializando bootcamp"
+
+git push origin main
