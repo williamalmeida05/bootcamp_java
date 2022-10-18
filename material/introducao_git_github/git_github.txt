@@ -1,3 +1,5 @@
+Comandos para commitar e realizar push
+
 git status
 
 git add .
