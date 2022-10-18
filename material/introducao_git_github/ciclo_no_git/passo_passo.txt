@@ -1,0 +1,8 @@
+
+ls --> (Visualizar quais arquivos estão na pasta)
+
+git status 
+
+mkdir "nome da pasta" --> (Criar pasta)
+
+mv "./nome do arquivo" "./nome da pasta que receberá" (Mover arquivo para outra pasta)
