@@ -33,3 +33,4 @@ $ git add .
 
 $ git commit -am "inicializando bootcamp"
 
+$ git clone "link do repositório"
